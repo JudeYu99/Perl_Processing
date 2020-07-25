@@ -1,3 +1,3 @@
 # Perl-Processing
-These repositories includes some perl files and according test files in processing biological data.
-Since these codes are written by a green hand, there might exist some mistakes. Please contact me if you find anything wrong.
+Find motifs like TTCATTCATTCA with Perl and get the positions.
+This repository includes one perl file, two input files and one result file.
